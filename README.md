@@ -64,7 +64,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 # Dependencies :-
 
-		Stable internet connection for getting Live Images and Videos
+		Stable internet connection for getting Live Data
         
         
 <p align="center">
