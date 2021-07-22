@@ -1,14 +1,15 @@
 # ludo Supers
 
-LudoSuper an App which Offers Rewards and Unlimited Entertainment for Participating and Playing Games Online. Ludo is among the most popular board games that is played by people in their leisure time. The objective of Ludo is to race your four tokens from the starting point to the finishing point by rolling a dice. 
+- LudoSuper an App which Offers Rewards and Unlimited Entertainment for Participating and Playing Games Online. 
+- Ludo is among the most popular board games that is played by people in their leisure time. 
+- The objective of Ludo is to race your four tokens from the starting point to the finishing point by rolling a dice. 
+- Ludo Super brings you a chance to Play and earn in Ludo online by competing with online players right here.
 
-<img src="https://www.ludosupers.com/wp-content/uploads/2021/06/com.ludo_supers-FeaturedGraphic-200.jpg" height="300em" width="800em" margin-left="5px" />
+<img src="https://www.ludosupers.com/wp-content/uploads/2021/06/com.ludo_supers-FeaturedGraphic-200.jpg" height="300em" width="600em" margin-left="5px" />
 
 # Try the App
 
-<a href='https://www.ludosupers.com/'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
-
-Ludo Super brings you a chance to Play and earn in Ludo online by competing with online players right here. Ludo is among the most popular board games that is played by people in their leisure time. It can be played by 2 to 4 players. The objective of Ludo is to race your four tokens from the starting point to the finishing point by rolling a dice. This website is solely run by Shrinath Enterprizes where we look forward to providing online gamers with an opportunity to play and earn. So why play for free when you could win amazing rewards and CASH for playing your favourite games? We provide a seamless & interactive gaming experience where you get to play a variety of Ludo tournaments 
+<a href='https://www.ludosupers.com/'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=80px/></a>
 
 The source code is **100% Dart**.
 
